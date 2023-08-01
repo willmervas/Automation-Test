@@ -1,13 +1,13 @@
 package steps;
 
 import io.cucumber.java.en.*;
-import pages.SmcPage;
+import pages.SmlPage;
 
-public class SmcSteps {
+public class SmlSteps {
 
-    SmcPage google = new SmcPage();
+    SmlPage google = new SmlPage();
 
-    @Given("^Entrar al Login SMC")
+    @Given("^Entrar al Login SML")
     public void navigatedToGoogle(){
         google.navigatedToGoogle();
 
