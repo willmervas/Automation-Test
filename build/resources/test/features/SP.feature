@@ -24,3 +24,4 @@ Background: Ingresar al SP y validar
         |Región Metropolitana         |
         |Región de Valparaíso         |
         |Región de Atacama            |
+        |Región de Arica              |
