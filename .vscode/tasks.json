@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\automationSitioPublicocleanautomationSitioPublico",
+			"script": "clean",
+			"description": "Deletes the build directory.",
+			"group": "build",
+			"project": "automationSitioPublico",
+			"buildFile": "C:\\automationSitioPublico\\build.gradle",
+			"rootProject": "automationSitioPublico",
+			"projectFolder": "c:\\automationSitioPublico",
+			"workspaceFolder": "c:\\automationSitioPublico",
+			"args": "",
+			"javaDebug": true,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: clean"
+		}
+	]
+}
