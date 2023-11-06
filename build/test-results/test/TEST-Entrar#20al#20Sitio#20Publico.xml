@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Entrar al Sitio Publico" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-11-02T21:00:13" hostname="GENESYS-NB-782" time="5.883">
+<testsuite name="Entrar al Sitio Publico" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-11-06T15:02:57" hostname="GENESYS-NB-782" time="11.468">
   <properties/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP" classname="Entrar al Sitio Publico" time="3.951"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar textos corrrectamente" classname="Entrar al Sitio Publico" time="0.649"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP ingresar una busqueda" classname="Entrar al Sitio Publico" time="0.688"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #1" classname="Entrar al Sitio Publico" time="0.165"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #2" classname="Entrar al Sitio Publico" time="0.165"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #3" classname="Entrar al Sitio Publico" time="0.136"/>
-  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #4" classname="Entrar al Sitio Publico" time="0.129"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP" classname="Entrar al Sitio Publico" time="8.765"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar textos corrrectamente" classname="Entrar al Sitio Publico" time="1.205"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP ingresar una busqueda" classname="Entrar al Sitio Publico" time="0.702"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #1" classname="Entrar al Sitio Publico" time="0.19"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #2" classname="Entrar al Sitio Publico" time="0.215"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #3" classname="Entrar al Sitio Publico" time="0.123"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #4" classname="Entrar al Sitio Publico" time="0.152"/>
+  <testcase name="Abrir el Sitio Publico correctamente y validar entrar al SP y valida si la región en la lista #5" classname="Entrar al Sitio Publico" time="0.116"/>
   <system-out><![CDATA[El texto de la Lista esta correcto: PASSED
+El texto de la Lista esta correcto: PASSED
 El texto de la Lista esta correcto: PASSED
 El texto de la Lista esta correcto: PASSED
 El texto de la Lista esta correcto: PASSED
@@ -17,7 +19,7 @@ El texto de la Lista esta correcto: PASSED
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-nov. 02, 2023 6:00:15 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+nov. 06, 2023 12:02:59 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 118, so returning the closest version found: 115
 ]]></system-err>
 </testsuite>
